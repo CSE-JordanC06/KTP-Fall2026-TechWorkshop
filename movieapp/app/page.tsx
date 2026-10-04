@@ -1,6 +1,7 @@
 "use client";
 import Image from "next/image";
 import Header from "./components/Header";
+import MovieCard from "./components/MovieCard";
 import { movies } from "./data/movies";
 import MovieCard from "./components/MovieCard";
 import { useState, useEffect } from "react";
